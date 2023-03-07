@@ -176,6 +176,9 @@ RMSE <- final_holdout_test %>%
 
 # Genre effect
 
+# Most movies belong to more than one genre and such genre information is lumped together in one single field.
+head(edx[1:5, c(2,5,6)])
+
 # As each movie may contain a few genres separated by the symbol |, the first action is to determine the maximum 
 # number of genres a movie will have by counting the | symbols.
 
