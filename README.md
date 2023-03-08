@@ -3,7 +3,7 @@ This repo is for the final submission for the "All Learners Capstone Project" of
 
 In short, we have to build a movie recommendation system from the given dataset called "movielens" which can be extracted from the dslabs R package. Upon processing the dataset into a training and a test set, we are required to use the training set to develop an algorithm to reduce the estimation error, measured in Root Mean Square Error (RMSE), in the final test. 
 
-This submission conssits of three files:
+This submission consists of three files:
 
 1. The report in Rmd format
 2. The report in PDF format
